@@ -1,0 +1,24 @@
+*	name	Joaquín Sabina. Marieta
+*	card-order	3
+*	card-theme	Chalkboard - Clear
+*	notify-off	1
+*	tsv	true
+Text 1	Text 2
+Как-то вечером я пришел петь под окна Мариэтты,	Y yo que fui a rondarle la otra noche a Marieta
+Но красавица, предательница уже ушла на концерт Альфреда Крауса.	la bella, la traidora había ido a escuchar a Alfredo Krahus
+Со своей песней я остался в дураках, мама!	Y yo con mi canción como un gilipollas, madre
+В столовую Мариэтты я зашел со своей солонкой,	Y entré con el salero al comedor de Marieta
+Но красавица, предательница уже доедала пирог.	la bella, la traidora ya estaba acabando el flan
+Со своей солью я остался в дураках, мама!	Y yo allí con la sal como un gilipollas, madre
+На именины я ей купил велосипед,	Y cuando por su santo le compré una bicicleta
+Но красавица, предательница уже приобрела Роллс-Ройс.	la bella, la traidora ya se había agenciado un Rolls.
+Облокотившись на руль, я остался в дураках, мама!	Pegado al manillar hice el gilipollas, madre
+Принес я орхидею на наше свидание в беседке,	Y le llevé una orquídia a nuestra cita en la glorieta
+Но красавица уже целовалась с каким-то пижоном под фонарем,	la bella se besaba con un chulo y apoyada en un farol
+И я с моим цветком остался в дураках, мама!	Y yo allí con mi flor como un gilipollas, madre
+И, когда в конце концов я пришел зарезать Мариэтту,	Y cuando ya por fin fui a degollar a Marieta
+Красавица, предательница вдруг, брык, и умерла.	la bella, la traidora de un soponcio se me había muerto ya.
+И я с моим кинжалом остался в дураках, мама!	Y yo con mi puñal como un gilipollas, madre
+Печальный, я прибежал на похороны Мариэтты,	Y lúgubre corrí al funeral de Marieta
+Но красавица, предательница взяла да и воскресла.	A la bella, la traidora le dio por resucitar.
+И я со своим венком остался в дураках, мама!	Y yo con mi corona hice el gilipollas, madre

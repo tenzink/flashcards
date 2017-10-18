@@ -1,0 +1,16 @@
+*	name	Raphael. Tema de amor
+*	card-order	3
+*	card-theme	Chalkboard - Clear
+*	notify-off	1
+*	tsv	true
+Text 1	Text 2
+Говорят, что мы — сумасшедшие от любви, что мы живем вне реальности,	Dicen que somos dos locos de amor que vivimos de espaldas al mundo real
+Стремясь добиться от людей одного - чтобы они оставили нас в покое.	Pretendiendo lograr de la gente un favor que nos dejen querernos en paz.
+Они завидуют, видя, как мы обнимаемся, радуемся, кружим по городу	Tienen envidia de vernos así abrazados y alegres cruzar la ciudad
+Они хотели бы вырвать с корнем эту любовь, которой им самим испытать не удалось.	Y quisieran cortar este amor de raíz que ellos nunca pudieron lograr.
+Я без твоих губ умру от тоски, без моих ты тоже не сможешь жить	Yo sin tus labios me muero de sed sin los míos también tú no puedes estar
+Мы хотим вместе идти по жизни, раз уж она нас соединила.	Nos queremos los dos que le vamos a hacer si la vida nos quiso juntar.
+Мои глаза так наполнены тобою, что в моем теле, любимая, не осталось ни уголка,	Tengo mis ojos tan llenos de ti que en mi cuerpo cariño no queda un rincón
+Где не повелевала бы любовь, которую дарю тебе с ударами моего сердца.	Donde no mandes tú que es te amor que te doy es el pulso de mi corazón.
+Только в твоих руках я чувствую счастье, и я засыпаю в нежной тишине,	Sólo en tus brazos me siento feliz y me duermo despierto con dulce quietud
+Слушая, как ты улыбаешься рядом со мной в такт с дыханием твоей молодости.	Escuchando a compás sonreír junto a mí el aliento de tu juventud.

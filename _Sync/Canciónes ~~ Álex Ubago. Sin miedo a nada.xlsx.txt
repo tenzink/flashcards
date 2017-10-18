@@ -1,0 +1,74 @@
+*	name	Álex Ubago. Sin miedo a nada
+*	card-order	3
+*	card-theme	Chalkboard - Clear
+*	notify-off	1
+*	tsv	true
+*	deck-stats-1	2841,2841,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Text 1	Text 2	Statistics 1
+"Я едва сдерживаю желание броситься умолять,
+чтобы ты не уходила, жизнь моя;"	"Me muero por suplicarte
+Que no te vayas, mi vida,"	
+"я так хочу услышать, как ты говоришь
+то, чего никогда не скажешь."	"Me muero por escucharte
+Decir las cosas que nunca digas,"	1,0,0,0,0,1,0,2017-10-12 11:07,1970-01-01 03:00
+Но я молчу и ты уходишь.	Mas me callo y te marchas	1,0,0,0,0,1,0,2017-10-12 11:08,1970-01-01 03:00
+"Храню надежду, что окажусь способен однажды
+не скрывать, как мне больно от мысли,
+что я люблю тебя с каждым днем чуть больше."	"Mantengo la esperanza de ser capaz algún día
+De no esconder las heridas que me duelen al pensar
+Que te voy queriendo cada día un poco más"	1,0,0,0,0,1,0,2017-10-12 11:09,1970-01-01 03:00
+Как долго нам ещё ждать?	¿Cuánto tiempo vamos a esperar?	
+"Я так хочу обнять тебя,
+и чтобы ты обняла меня так же крепко;"	"Me muero por abrazarte
+Y que me abraces tan fuerte,"	
+"я так хочу веселить тебя,
+и чтобы ты целовала меня, когда я проснусь
+на твоей груди,
+пока не появится солнце."	"Me muero por divertirte
+Y que me beses cuando despierte
+Acomodado en tu pecho,
+Hasta que el sol aparezca."	1,0,0,0,0,1,0,2017-10-12 11:08,1970-01-01 03:00
+"Я постепенно тону в твоём запахе,
+я погибаю у твоих губ,
+которые приближаются, нашёптывая слова,
+которые проникают в моё бедное сердце."	"Me voy perdiendo en tu aroma,
+Me voy perdiendo en tus labios
+Que se acercan susurrando palabras
+Que llegan a este pobre corazón,"	
+Я чувствую, как разгорается огонь у меня внутри.	Voy sintiendo el fuego en mi interior.	
+"Я так хочу узнать тебя,
+понять, что ты думаешь,"	"Me muero por conocerte,
+Saber qué es lo que piensas,"	
+"открыть все твои дверцы
+и победить все невзгоды,
+которые хотят нас сломить."	"Abrir todas tus puertas
+Y vencer esas tormentas
+Que nos quieran abatir,"	
+"Смотреть тебе прямо в глаза,
+петь вместе с тобой на рассвете,
+целоваться, пока не заболят губы,"	"Centrar en tus ojos mi mirada,
+Cantar contigo al alba
+Besarnos hasta desgastarnos nuestros labios"	1,0,0,0,0,1,0,2017-10-12 11:06,1970-01-01 03:00
+"и видеть каждый день на твоем лице,
+как прорастает это «семя»."	"Y ver en tu rostro cada día
+Crecer esa semilla,"	1,0,0,0,0,1,0,2017-10-12 11:08,1970-01-01 03:00
+"Творить, мечтать, отдаться во власть судьбы,
+отбросив страх перед страданием."	"Crear, soñar, dejar todo surgir,
+Aparcando el miedo a sufrir."	
+"Я так хочу объяснять тебе
+мысли, что приходят мне в голову,"	"Me muero por explicarte
+Lo que pasa por mi mente,"	1,0,0,0,0,1,0,2017-10-12 11:07,1970-01-01 03:00
+"умираю от желания отдаться тебе,
+сохраняя способность удивлять тебя;"	"Me muero por entregarte
+Y seguir siendo capaz de sorprenderte,"	
+"чувствовать каждый день
+эту вспышку любви при виде тебя."	"Sentir cada día
+Ese flechazo al verte,"	
+Какая разница, что скажут?!	¿Qué más dará lo que digan?	
+Какая разница, что подумают?!	¿Qué más dará lo que piensen?	1,0,0,0,0,1,0,2017-10-12 11:08,1970-01-01 03:00
+Если я сумасшедшая – это мое дело.	Si estoy loca, es cosa mía.	1,0,0,0,0,1,0,2017-10-12 11:08,1970-01-01 03:00
+"И сейчас я снова смотрю вокруг –
+весь мир на моей стороне,
+я вновь вижу солнечный свет."	"Y ahora vuelvo a mirar,
+El mundo a mi favor,
+vuelvo a ver brillar la luz del sol."	1,0,0,0,0,1,0,2017-10-12 11:07,1970-01-01 03:00

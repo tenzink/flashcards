@@ -1,0 +1,757 @@
+*	name	Conjugation verbos
+*	card-order	3
+*	max-new-cards	20
+*	card-theme	Chalkboard - Clear
+*	tsv	true
+*	category-1	participio pasado|futuro|gerundio|pretérito imperfecto|presente|condicional|pretérito perfector simple
+*	deck-stats-1	2636,2846,1345,4,6,5,9,19,6,3,3,0,15,12,3,8,15,21,64,11,4,2,7,4,6,3,0,0,2,1,4,10,0,98,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1036,3,6,6,7,7,9,4,3,0,11,12,4,8,14,17,5,3,6,3,6,7,5,4,0,0,1,3,4,16,0,930,3,6,6,6,6,9,4,3,0,11,12,4,7,13,17,5,3,5,3,5,7,4,4,0,0,1,3,3,16,0,359,1,0,0,0,16,0,0,0,0,0,0,0,0,0,0,53,12,0,0,0,0,0,0,0,0,0,0,0,0,0,483,3,5,4,5,3,7,4,3,0,9,10,3,5,12,15,4,2,2,2,1,4,2,2,0,0,1,1,-5,9,0,56158,494,388,477,304,528,665,315,287,0,724,444,326,176,384,253,321,373,416,368,230,627,271,581,0,0,50,159,-555,848,0,736,667,278,243,191,181
+Text 1	Text 2	Text 3	Category 1	Statistics 1
+"<u>abrir</u>
+
+participio pasado"	abierto		participio pasado	2,0,10,10,10,11,1934,2017-09-27 10:06,2017-12-17 00:06
+"<u>andar
+
+</u>pretérito perfector simple"	"anduve
+anduviste
+anduvo
+anduvimos
+anduvisteis
+anduvieron"		pretérito perfector simple	2,0,9,9,9,10,1424,2017-09-30 11:04,2017-11-28 19:04
+"<u>atracar</u>
+
+pretérito perfecto simple"	"atraqué
+atracaste
+atracó
+atracamos
+atracasteis
+atracaron"		pretérito perfector simple	2,0,4,4,4,5,184,2017-10-12 09:53,2017-10-20 01:53
+"<u>averiguar</u>
+
+pretérito perfecto simple"	"averigüé
+averiguaste
+averiguó
+averiguamos
+averiguasteis
+averiguaron"		pretérito perfector simple	2,0,4,4,4,5,188,2017-10-13 18:23,2017-10-21 14:23
+"<u>bullir</u>
+
+pretérito perfecto simple"	"bullí
+bulliste
+bulló
+bullimos
+bullisteis
+bulleron"		pretérito perfector simple	2,0,4,4,4,5,180,2017-10-12 09:52,2017-10-19 21:52
+"<u>caber</u>
+
+futuro"	"cabré
+cabrás
+cabrá
+cabremos
+cabréis
+cabrán"		futuro	2,0,9,9,10,11,1755,2017-09-12 11:09,2017-11-24 14:09
+"<u>caber
+
+</u>presente"	"quepo
+cabes
+cabe
+cabemos
+cabéis
+caben"		presente	2,0,9,9,9,10,1568,2017-10-08 13:38,2017-12-12 21:38
+"<u>caber</u>
+
+pretérito perfector simple"	"cupe
+cupiste
+cupo
+cupimos
+cupisteis
+cupieron"		pretérito perfector simple	2,0,10,8,4,5,377,2017-10-05 23:44,2017-10-21 16:44
+"<u>caer
+
+</u>gerundio"	cayendo		gerundio	2,0,7,7,7,8,1273,2017-08-30 10:10,2017-10-22 11:10
+"<u>caer
+
+</u>participio pasado"	caído		participio pasado	2,0,9,9,9,10,1364,2017-10-03 21:14,2017-11-29 17:14
+"<u>caer
+
+</u>presente"	"caigo
+caes
+cae
+caemos
+caéis
+caen"		presente	2,0,9,9,9,10,1589,2017-10-12 09:52,2017-12-17 14:52
+"<u>cerrar
+
+</u>presente"	"cierro
+cierras
+cierra
+cerramos
+cerráis
+cierran"		presente	2,0,9,9,9,10,1509,2017-10-02 21:03,2017-12-04 18:03
+"<u>colgar</u>
+
+pretérito perfecto simple"	"colgué
+colgaste
+colgó
+colgamos
+colgasteis
+colgaron"		pretérito perfector simple	2,0,4,4,4,5,217,2017-10-13 18:23,2017-10-22 19:23
+"<u>comer
+
+</u>pretérito perfector simple"	"comí
+comiste
+comío
+comimos
+comisteis
+comieron"		pretérito perfector simple	2,0,14,12,10,11,1633,2017-09-19 10:37,2017-11-26 11:37
+"<u>construir</u>
+
+gerundio"	construyendo		gerundio	2,0,8,8,9,10,1732,2017-08-22 09:41,2017-11-02 13:41
+"<u>contar
+
+</u>presente"	"cuento
+cuentas
+cuenta
+contamos
+contáis
+cuentan"		presente	2,0,9,9,9,10,1545,2017-09-19 10:36,2017-11-22 19:36
+"<u>convertir
+
+</u>presente"	"convierto
+conviertes
+convierte
+convertimos
+convertís
+convierten"		presente	2,0,9,9,9,10,1237,2017-09-12 11:08,2017-11-03 00:08
+"<u>crecer</u>
+
+presente"	"crezco
+creces
+crece
+cresemos
+creséis
+crecen"		presente	2,0,9,9,9,10,1494,2017-08-28 21:33,2017-10-30 03:33
+"<u>dar</u>
+
+pretérito perfector simple"	"di
+diste
+dio
+dimos
+disteis
+dieron"		pretérito perfector simple	2,0,9,8,4,5,672,2017-09-30 11:04,2017-10-28 11:04
+"<u>decir</u>
+
+futuro"	"diré
+dirás
+dirá
+diremos
+diréis
+dirán"		futuro	2,0,11,10,9,10,2004,2017-10-16 09:29,2018-01-07 21:29
+"<u>decir</u>
+
+gerundio"	diciendo		gerundio	2,0,10,9,10,11,2125,2017-08-23 12:12,2017-11-20 01:12
+"<u>decir</u>
+
+participio pasado"	dicho		participio pasado	2,0,16,13,6,7,879,2017-09-19 10:36,2017-10-26 01:36
+"<u>decir</u>
+
+pretérito perfector simple"	"dije
+dijiste
+dijo
+dijimos
+dijisteis
+dijeron"		pretérito perfector simple	2,0,16,12,3,4,399,2017-10-08 13:37,2017-10-25 04:37
+"<u>distribuir</u>
+
+pretérito perfecto simple"	"distribuí
+distribuiste
+distribuyó
+distribuimos
+distribuisteis
+distribuyeron"		pretérito perfector simple	2,0,4,4,4,5,223,2017-10-14 09:58,2017-10-23 16:58
+"<u>divertir</u>
+
+gerundio"	divirtiendo		gerundio	2,0,8,8,9,10,1373,2017-08-22 09:43,2017-10-18 14:43
+"<u>dormir</u>
+
+gerundio"	durmiendo		gerundio	2,0,9,9,10,11,2102,2017-09-19 10:36,2017-12-16 00:36
+"<u>dormir</u>
+
+pretérito perfecto simple"	"dormí
+dormiste
+durmió
+dormimos
+dormisteis
+durmieron"		pretérito perfector simple	2,0,5,4,2,3,117,2017-10-15 21:34,2017-10-20 18:34
+"<u>empezar</u>
+
+pretérito perfecto simple"	"empecé
+empezaste
+empezó
+empezamos
+empezasteis
+empezaron"		pretérito perfector simple	2,0,6,5,5,6,256,2017-10-16 20:25,2017-10-27 12:25
+"<u>escribir</u>
+
+participio pasado"	escrito		participio pasado	2,0,8,8,9,10,1724,2017-08-22 09:43,2017-11-02 05:43
+"<u>estar
+
+</u>pretérito perfector simple"	"estuve
+estuviste
+estuvo
+estuvimos
+estuvisteis
+estuvieron"		pretérito perfector simple	2,0,13,11,10,11,1430,2017-10-07 13:41,2017-12-06 03:41
+"<u>freir</u>
+
+participio pasado"	frito		participio pasado	2,0,9,9,10,11,1970,2017-09-29 08:50,2017-12-20 10:50
+"<u>golpear</u>
+
+presente"	"golpeo
+golpeas
+golpea
+golpeamos
+golpeáis
+golpean"		presente	2,0,8,8,8,9,995,2017-09-12 11:06,2017-10-23 22:06
+"<u>golpear</u>
+
+pretérito perfector simple"	"golpeé
+golpeaste
+golpeó
+golpeamos
+golpeasteis
+golpearon"		pretérito perfector simple	2,0,14,11,4,5,667,2017-10-01 13:27,2017-10-29 08:27
+"<u>haber
+
+</u>presente"	"he
+has
+ha
+hemos
+habéis
+han"		presente	2,0,9,9,9,10,1205,2017-09-12 11:06,2017-11-01 16:06
+"<u>haber</u>
+
+pretérito perfecto simple"	"hube
+hubiste
+hubo
+hubimos
+hubisteis
+hubieron"		pretérito perfector simple	2,0,5,5,5,6,277,2017-10-17 20:11,2017-10-29 09:11
+"<u>hablar
+</u>
+pretérito perfecto simple"	"hablé
+hablaste
+habló
+hablamos
+hablasteis
+hablaron"		pretérito perfector simple	2,0,15,12,4,5,578,2017-09-29 08:50,2017-10-23 10:50
+"<u>hacer</u>
+
+condicional"	"haría
+harías
+haría
+haríamos
+haríais
+harían"		condicional	2,0,11,10,5,6,836,2017-09-19 10:37,2017-10-24 06:37
+"<u>hacer
+
+</u>futuro"	"haré
+harás
+hará
+haremos
+haréis
+harán"		futuro	2,0,4,4,4,5,214,2017-10-12 09:53,2017-10-21 07:53
+"<u>hacer</u>
+
+participio pasado"	hecho		participio pasado	2,0,12,11,4,5,579,2017-10-13 09:06,2017-11-06 12:06
+"<u>hacer
+
+</u>pretérito perfector simple"	"hice
+hiciste
+hizo
+hicimos
+hicisteis
+hicieron"		pretérito perfector simple	2,0,14,11,3,4,198,2017-10-13 09:06,2017-10-21 15:06
+"<u>ir</u>
+
+condicional"	"iría
+irías
+iría
+iríamos
+iríais
+irían"		condicional	2,0,9,9,9,10,1384,2017-08-25 09:32,2017-10-22 01:32
+"<u>ir</u>
+
+futuro"	"iré
+irás
+irá
+iremos
+iréis
+irán"		futuro	2,0,9,9,9,10,1520,2017-09-12 11:07,2017-11-14 19:07
+"<u>ir</u>
+
+gerundio"	yendo		gerundio	2,0,8,8,9,10,2358,2017-09-19 10:36,2017-12-26 16:36
+"<u>ir</u>
+
+participio pasado"	ido		participio pasado	2,0,27,18,7,8,917,2017-09-21 11:03,2017-10-29 16:03
+"<u>ir</u>
+
+presente"	"voy
+vas
+va
+vamos
+vais
+van"		presente	2,0,7,7,10,11,1945,2017-09-12 11:09,2017-12-02 12:09
+"<u>ir</u>
+
+preterio imperfecto"	"iba
+ibas
+iba
+íbamos
+ibais
+iban"		pretérito imperfecto	2,0,20,15,4,5,587,2017-09-29 08:51,2017-10-23 19:51
+"<u>ir
+
+</u>pretérito perfector simple"	"fui
+fuiste
+fue
+fuimos
+fuisteis
+fueron"		pretérito perfector simple	2,0,13,11,4,5,605,2017-09-28 21:04,2017-10-24 02:04
+"<u>jurar
+
+</u>pretérito perfector simple"	"juré
+juraste
+juró
+juramos
+jurasteis
+juraron"		pretérito perfector simple	2,0,13,11,12,13,1593,2017-09-12 11:06,2017-11-17 20:06
+"<u>leer</u>
+
+gerundio"	leyendo		gerundio	2,0,9,9,10,11,1751,2017-09-21 11:03,2017-12-03 10:03
+"<u>leer</u>
+
+pretérito perfecto simple"	"leí
+leíste
+leyó
+leímos
+leísteis
+leyeron"		pretérito perfector simple	2,0,4,4,4,5,216,2017-10-12 09:52,2017-10-21 09:52
+"<u>llover</u>
+
+presente"	<i>(él/ella/Ud.)</i> llueve		presente	2,0,2,2,2,3,78,2017-10-16 09:28,2017-10-19 15:28
+"<u>llover</u>
+
+pretérito perfector simple"	<i>(él/ella/Ud.)</i> llovió		pretérito perfector simple	2,0,3,2,3,4,28,2017-10-16 20:25,2017-10-18 00:25
+"<u>mecer</u>
+
+presente"	"mezo
+meces
+mece
+mecemos
+mecéis
+mecen"		presente	
+"<u>morir</u>
+
+gerundio"	muriendo		gerundio	2,0,20,16,6,7,452,2017-10-10 21:16,2017-10-29 17:16
+"<u>morir</u>
+
+participio pasado"	muerto		participio pasado	2,0,8,8,9,10,1809,2017-08-22 09:42,2017-11-05 18:42
+"<u>mostrar</u>
+
+presente"	"muestro
+muestras
+muestra
+mostramos
+mostráis
+muestran"		presente	2,0,2,2,2,3,55,2017-10-15 20:01,2017-10-18 03:01
+"<u>mostrar</u>
+
+pretérito perfector simple"	"mostré
+mostraste
+mostró
+mostramos
+mostrasteis
+mostraron"		pretérito perfector simple	2,0,2,2,2,3,61,2017-10-16 09:28,2017-10-18 22:28
+"<u>nevar</u>
+
+presente"	<i>(él/ella/Ud.)</i> nieva		presente	
+"<u>nevar</u>
+
+pretérito perfector simple"	<i>(él/ella/Ud.)</i> nevó		pretérito perfector simple	
+"<u>oír</u>
+
+gerundio"	oyendo		gerundio	2,0,8,8,9,10,1659,2017-08-22 09:42,2017-10-30 12:42
+"<u>oir
+
+</u>presente"	"oigo
+oyes
+oye
+oímos
+oís
+oyen"		presente	2,0,15,12,7,8,1117,2017-09-27 10:06,2017-11-12 23:06
+"<u>oir</u>
+
+pretérito perfecto simple"	"oí
+oíste
+oyó
+oímos
+oísteis
+oyeron"		pretérito perfector simple	2,0,4,4,4,5,218,2017-10-13 18:23,2017-10-22 20:23
+"<u>pedir</u>
+
+gerundio"	pidiendo		gerundio	2,0,9,9,10,11,1742,2017-09-12 11:09,2017-11-24 01:09
+"<u>pedir
+
+</u>presente"	"pido
+pides
+pide
+pedimos
+pedís
+piden"		presente	2,0,10,10,10,11,1461,2017-10-07 13:41,2017-12-07 10:41
+"<u>pedir</u>
+
+pretérito perfecto simple"	"pedí
+pediste
+pidió
+pedimos
+pedisteis
+pidieron"		pretérito perfector simple	2,0,4,4,4,5,161,2017-10-11 10:24,2017-10-18 03:24
+"<u>pertenecer</u>
+
+presente"	"pertenezco
+perteneces
+pertenece
+pertenecemos
+pertenecéis
+pertenecen"		presente	2,0,4,4,4,5,216,2017-10-12 21:12,2017-10-21 21:12
+"<u>poder</u>
+
+futuro"	"podré
+podrás
+podrá
+podremos
+podréis
+podrán"		futuro	2,0,11,10,12,13,1773,2017-09-19 10:36,2017-12-02 07:36
+"<u>poder</u>
+
+gerundio"	pudiendo		gerundio	2,0,8,8,10,11,2060,2017-08-22 09:43,2017-11-16 05:43
+"<u>poder</u>
+
+pretérito perfector simple"	"pude
+pudiste
+pudo
+pudimos
+pudisteis
+pudieron"		pretérito perfector simple	2,0,9,8,4,5,489,2017-10-12 21:12,2017-11-02 06:12
+"<u>poner</u>
+
+futuro"	"pondré
+pondrás
+pondrá
+pondremos
+pondréis
+pondrán"		futuro	2,0,8,8,9,10,1776,2017-08-25 09:32,2017-11-07 09:32
+"<u>poner</u>
+
+participio pasado"	puesto		participio pasado	2,0,12,11,6,7,1156,2017-09-28 10:38,2017-11-15 14:38
+"<u>poner
+
+</u>pretérito perfector simple"	"puse
+pusiste
+puso
+pusimos
+pusisteis
+pusieron"		pretérito perfector simple	2,0,17,13,6,7,585,2017-10-06 09:12,2017-10-30 18:12
+"<u>preferir</u>
+
+gerundio"	prefiriendo		gerundio	2,0,8,8,9,10,1861,2017-08-22 09:43,2017-11-07 22:43
+"<u>querer</u>
+
+futuro"	"querré
+querrás
+querrá
+querremos
+querréis
+querrán"		futuro	2,0,10,10,10,11,1749,2017-09-20 20:46,2017-12-02 17:46
+"<u>querer
+
+</u>pretérito perfector simple"	"quise
+quisiste
+quiso
+quisimos
+quisisteis
+quisieron"		pretérito perfector simple	2,0,11,10,8,9,1455,2017-10-03 21:14,2017-12-03 12:14
+"<u>romper</u>
+
+participio pasado"	roto		participio pasado	2,0,12,11,4,5,587,2017-09-27 20:41,2017-10-22 07:41
+"<u>saber</u>
+
+futuro"	"sabré
+sabrás
+sabrá
+sabremos
+sabréis
+sabrán"		futuro	2,0,10,10,10,11,1685,2017-09-12 11:09,2017-11-21 16:09
+"<u>saber</u>
+
+pretérito perfector simple"	"supe
+supiste
+supo
+supimos
+supisteis
+supieron"		pretérito perfector simple	2,0,8,8,8,9,1080,2017-10-15 20:01,2017-11-29 20:01
+"<u>salir</u>
+
+condicional"	"saldría
+saldrías
+saldría
+saldríamos
+saldríais
+saldrían"		condicional	2,0,9,9,9,10,1497,2017-09-12 11:07,2017-11-13 20:07
+"<u>salir
+
+</u>futuro"	"saldré
+saldrás
+saldrá
+saldremos
+saldréis
+saldrán"		futuro	2,0,5,5,5,6,278,2017-10-17 20:11,2017-10-29 10:11
+"<u>salir
+
+</u>presente"	"salgo
+sales
+sale
+salimos
+salís
+salen"		presente	2,0,12,10,12,13,1463,2017-10-05 09:12,2017-12-05 08:12
+"<u>salir
+
+</u>pretérito perfector simple"	"salí
+saliste
+salío
+salimos
+salisteis
+salieron"		pretérito perfector simple	2,0,10,10,10,11,1755,2017-10-12 09:52,2017-12-24 12:52
+"<u>sembrar</u>
+
+presente"	"siembro
+siembras
+siembra
+sembramos
+sembráis
+siembran"		presente	2,0,0,0,0,1,80,2017-10-17 08:56,2017-10-20 16:56
+"<u>ser</u>
+
+futuro"	"seré
+serás
+será
+seremos
+seréis
+serán"		futuro	2,0,10,10,10,11,1412,2017-09-12 11:06,2017-11-10 07:06
+"<u>ser
+
+</u>gerundio"	siendo		gerundio	2,0,14,12,4,5,599,2017-09-30 11:04,2017-10-25 10:04
+"<u>ser</u>
+
+participio pasado"	sido		participio pasado	2,0,9,9,9,10,1596,2017-08-24 10:29,2017-10-29 22:29
+"<u>ser
+
+</u>presente"	"soy
+eres
+es
+somos
+sois
+son"		presente	2,0,9,9,9,10,1297,2017-09-12 11:08,2017-11-05 12:08
+"<u>ser
+
+</u>pretérito imperfecto"	"era
+eras
+era
+éramos
+erais
+eran"		pretérito imperfecto	2,0,29,21,5,6,677,2017-10-17 08:56,2017-11-14 13:56
+"<u>ser
+
+</u>pretérito perfector simple"	"fui
+fuiste
+fue
+fuimos
+fuisteis
+fueron"		pretérito perfector simple	2,0,13,11,6,7,1131,2017-09-26 21:19,2017-11-13 00:19
+"<u>tañer</u>
+
+pretérito perfecto simple"	"tañí
+tañiste
+tañó
+tañimos
+tañisteis
+tañeron"		pretérito perfector simple	2,0,4,4,4,5,192,2017-10-11 20:14,2017-10-19 20:14
+"<u>temblar
+
+</u>presente"	"tiemblo
+tiemblas
+tiembla
+temblamos
+tembláis
+tiemblan"		presente	2,0,9,9,9,10,1341,2017-09-19 10:37,2017-11-14 07:37
+"<u>tener</u>
+
+futuro"	"tendré
+tendrás
+tendrá
+tendremos
+tendréis
+tendrán"		futuro	2,0,10,10,10,11,1550,2017-09-12 11:08,2017-11-16 01:08
+"<u>tener
+
+</u>pretérito perfector simple"	"tuve
+tuviste
+tuvo
+tuvimos
+tuvisteis
+tuvieron"		pretérito perfector simple	2,0,11,10,10,11,1330,2017-10-01 13:27,2017-11-25 23:27
+"<u>traducir</u>
+
+pretérito perfecto simple"	"traduje
+tradujiste
+tradujo
+tradujimos
+tradujisteis
+tradujeron"		pretérito perfector simple	2,0,4,4,4,5,178,2017-10-12 09:52,2017-10-19 19:52
+"<u>traer</u>
+
+gerundio"	trayendo		gerundio	2,0,9,9,10,11,1979,2017-09-20 20:46,2017-12-12 07:46
+"<u>traer
+
+</u>presente"	"traigo
+traes
+trae
+traemos
+traéis
+traen"		presente	2,0,10,10,10,11,1489,2017-10-06 09:12,2017-12-07 10:12
+"<u>traer</u>
+
+pretérito perfector simple"	"traje
+trajiste
+trajo
+trajimos
+trajisteis
+trajeron"		pretérito perfector simple	2,0,14,11,4,5,587,2017-10-16 20:25,2017-11-10 07:25
+"<u>valer</u>
+
+futuro"	"valdré
+valdrás
+valdrá
+valdremos
+valdréis
+valdrán"		futuro	2,0,9,9,10,11,2144,2017-09-27 10:05,2017-12-25 18:05
+"<u>vencer</u>
+
+presente"	"venzo
+vences
+vence
+vencemos
+vencéis
+vencen"		presente	2,0,12,9,9,10,609,2017-10-14 09:57,2017-11-08 18:57
+"<u>vencer</u>
+
+pretérito perfector simple"	"vencí
+venciste
+venció
+vencimos
+vencisteis
+vencieron"		pretérito perfector simple	2,0,10,8,5,6,542,2017-09-26 21:19,2017-10-19 11:19
+"<u>venir
+
+</u>futuro"	"vendré
+vendrás
+vendrá
+vendremos
+vendréis
+vendrán"		futuro	2,0,4,4,4,5,206,2017-10-11 10:24,2017-10-20 00:24
+"<u>venir</u>
+
+presente"	"vengo
+vienes
+viene
+venimos
+venís
+vienen"		presente	2,0,9,7,3,4,255,2017-10-08 13:37,2017-10-19 04:37
+"<u>venir</u>
+
+pretérito perfector simple"	"vine
+viniste
+vino
+vinimos
+vinisteis
+vinieron"		pretérito perfector simple	2,0,10,8,5,6,396,2017-10-08 13:36,2017-10-25 01:36
+"<u>ver</u>
+
+participio pasado"	visto		participio pasado	2,0,8,8,9,10,1463,2017-08-22 09:42,2017-10-22 08:42
+"<u>ver
+
+</u>presente"	"veo
+ves
+ve
+vemos
+veis
+ven"		presente	2,0,8,8,8,9,1343,2017-08-23 11:18,2017-10-18 10:18
+"<u>ver</u>
+
+pretérito imperfecto"	"veía
+veías
+veía
+veíamos
+veíais
+veían"		pretérito imperfecto	2,0,15,12,3,4,433,2017-10-15 20:01,2017-11-02 21:01
+"<u>ver</u>
+
+pretérito perfector simple"	"vi
+viste
+vio
+vimos
+visteis
+vieron"		pretérito perfector simple	2,0,9,8,9,10,666,2017-10-15 20:01,2017-11-12 14:01
+"<u>vivir
+
+</u>condicional"	"viviría
+vivirías
+viviría
+viviríamos
+viviríais
+vivirían"		condicional	2,0,8,8,9,10,1637,2017-09-12 11:09,2017-11-19 16:09
+"<u>vivir
+</u>
+futuro"	"viviré
+vivirás
+vivirá
+viviremos
+viviréis
+vivirán"		futuro	2,0,13,11,7,8,1347,2017-09-12 11:09,2017-11-07 14:09
+"<u>vivir
+</u>
+pretérito imperfecto"	"vivía
+vivías
+vivía
+vivíamos
+vivíais
+vivían"		pretérito imperfecto	2,0,22,16,4,5,536,2017-09-27 20:41,2017-10-20 04:41
+"<u>vivir
+</u>
+pretérito perfecto simple"	"viví
+viviste
+vivió
+vivimos
+vivisteis
+vivieron"		pretérito perfector simple	2,0,9,9,9,10,1709,2017-09-12 11:08,2017-11-22 16:08
+"<u>volver</u>
+
+participio pasado"	vuelto		participio pasado	2,0,8,8,9,10,2065,2017-08-22 09:43,2017-11-16 10:43
+"<u>volver
+
+</u>presente"	"vuelvo
+vuelves
+vuelve
+volvemos
+volvéis
+vuelven"		presente	2,0,9,9,9,10,1652,2017-10-08 21:04,2017-12-16 17:04

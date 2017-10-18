@@ -1,0 +1,62 @@
+*	name	Grammar
+*	card-order	3
+*	card-theme	Chalkboard - Clear
+*	tsv	true
+*	deck-stats-1	2636,2844,96,3,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,30,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,1817,134,0,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,-242,0,0,0,0,0,0,0,0,0,0,0,0,14,14,12,11,7,6
+Text 1	Text 2	Text 3	Text 4	Statistics 1
+Present progressive	"estar + gerundio
+
+<u>estoy</u> hablando
+<u>estás</u> hablando
+<u>está</u> hablando
+<u>estamos</u> hablando
+<u>estáis</u> hablando
+<u>están</u> hablando"	"ar => ando
+er => iendo
+ir => iendo"	"habl<u>ar</u>
+habl<u>ando</u>
+
+aprend<u>er</u>
+aprend<u>iendo</u>
+
+viv<u>ir</u>
+viv<u>iendo</u>"	2,0,10,10,11,12,1672,2017-09-12 10:57,2017-11-21 02:57
+Pretérito Perfecto	"haber + perfecto participio
+
+<u>he</u> hablado
+<u>has</u> hablado
+<u>ha</u> hablado
+<u>hemos</u> hablado
+<u>habéis</u> hablado
+<u>han</u> hablado"	"ar => ado
+er => ido
+ir => ido"	"habl<u>ar</u>
+habl<u>ado</u>
+
+aprend<u>er</u>
+aprend<u>ido</u>
+
+viv<u>ir</u>
+viv<u>ido</u>"	2,0,13,11,3,4,377,2017-10-15 18:25,2017-10-31 11:25
+Pretérito Indefinido	"<u>ar
+</u>
+habl<u>é</u>
+habl<u>aste</u>
+habl<u>ó</u>
+habl<u>amos</u>
+habl<u>astéis</u>
+habl<u>aron</u>"	"<u>er</u>
+
+aprend<u>í</u>
+aprend<u>iste</u>
+aprend<u>ió</u>
+aprend<u>imos</u>
+aprend<u>isteís
+</u>aprend<u>ieron</u>"	"<u>ir</u>
+
+viv<u>í</u>
+viv<u>iste</u>
+viv<u>ió</u>
+viv<u>imos</u>
+viv<u>isteis</u>
+viv<u>ieron</u>"	2,0,9,9,9,10,1462,2017-08-23 12:13,2017-10-23 10:13
