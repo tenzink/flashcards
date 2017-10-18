@@ -4,7 +4,7 @@
 *	card-theme	Chalkboard - Clear
 *	tsv	true
 *	category-1	participio pasado|futuro|gerundio|pretérito imperfecto|presente|condicional|pretérito perfector simple
-*	deck-stats-1	2636,2846,1345,4,6,5,9,19,6,3,3,0,15,12,3,8,15,21,64,11,4,2,7,4,6,3,0,0,2,1,4,10,0,98,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,13,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1036,3,6,6,7,7,9,4,3,0,11,12,4,8,14,17,5,3,6,3,6,7,5,4,0,0,1,3,4,16,0,930,3,6,6,6,6,9,4,3,0,11,12,4,7,13,17,5,3,5,3,5,7,4,4,0,0,1,3,3,16,0,359,1,0,0,0,16,0,0,0,0,0,0,0,0,0,0,53,12,0,0,0,0,0,0,0,0,0,0,0,0,0,483,3,5,4,5,3,7,4,3,0,9,10,3,5,12,15,4,2,2,2,1,4,2,2,0,0,1,1,-5,9,0,56158,494,388,477,304,528,665,315,287,0,724,444,326,176,384,253,321,373,416,368,230,627,271,581,0,0,50,159,-555,848,0,736,667,278,243,191,181
+*	deck-stats-1	2636,2847,1345,12,4,6,5,9,19,6,3,3,0,15,12,3,8,15,21,64,11,4,2,7,4,6,3,0,0,2,1,4,10,98,3,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,13,4,0,0,0,0,0,0,0,0,0,0,0,0,1036,5,3,6,6,7,7,9,4,3,0,11,12,4,8,14,17,5,3,6,3,6,7,5,4,0,0,1,3,4,16,930,5,3,6,6,6,6,9,4,3,0,11,12,4,7,13,17,5,3,5,3,5,7,4,4,0,0,1,3,3,16,359,13,1,0,0,0,16,0,0,0,0,0,0,0,0,0,0,53,12,0,0,0,0,0,0,0,0,0,0,0,0,483,3,3,5,4,5,3,7,4,3,0,9,10,3,5,12,15,4,2,2,2,1,4,2,2,0,0,1,1,-5,9,56158,217,494,388,477,304,528,665,315,287,0,724,444,326,176,384,253,321,373,416,368,230,627,271,581,0,0,50,159,-555,848,739,670,278,243,193,183
 Text 1	Text 2	Text 3	Category 1	Statistics 1
 "<u>abrir</u>
 
@@ -170,7 +170,7 @@ distribuisteis
 distribuyeron"		pretérito perfector simple	2,0,4,4,4,5,223,2017-10-14 09:58,2017-10-23 16:58
 "<u>divertir</u>
 
-gerundio"	divirtiendo		gerundio	2,0,8,8,9,10,1373,2017-08-22 09:43,2017-10-18 14:43
+gerundio"	divirtiendo		gerundio	2,0,9,9,10,11,1988,2017-10-18 16:58,2018-01-09 12:58
 "<u>dormir</u>
 
 gerundio"	durmiendo		gerundio	2,0,9,9,10,11,2102,2017-09-19 10:36,2017-12-16 00:36
@@ -341,7 +341,7 @@ leyeron"		pretérito perfector simple	2,0,4,4,4,5,216,2017-10-12 09:52,2017-10-2
 presente"	<i>(él/ella/Ud.)</i> llueve		presente	2,0,2,2,2,3,78,2017-10-16 09:28,2017-10-19 15:28
 "<u>llover</u>
 
-pretérito perfector simple"	<i>(él/ella/Ud.)</i> llovió		pretérito perfector simple	2,0,3,2,3,4,28,2017-10-16 20:25,2017-10-18 00:25
+pretérito perfector simple"	<i>(él/ella/Ud.)</i> llovió		pretérito perfector simple	2,0,4,3,4,5,50,2017-10-18 09:32,2017-10-20 11:32
 "<u>mecer</u>
 
 presente"	"mezo
@@ -349,7 +349,7 @@ meces
 mece
 mecemos
 mecéis
-mecen"		presente	
+mecen"		presente	2,0,0,0,0,1,21,2017-10-18 09:32,2017-10-19 06:32
 "<u>morir</u>
 
 gerundio"	muriendo		gerundio	2,0,20,16,6,7,452,2017-10-10 21:16,2017-10-29 17:16
@@ -363,7 +363,7 @@ muestras
 muestra
 mostramos
 mostráis
-muestran"		presente	2,0,2,2,2,3,55,2017-10-15 20:01,2017-10-18 03:01
+muestran"		presente	2,0,3,3,3,4,103,2017-10-18 09:32,2017-10-22 16:32
 "<u>mostrar</u>
 
 pretérito perfector simple"	"mostré
@@ -374,10 +374,10 @@ mostrasteis
 mostraron"		pretérito perfector simple	2,0,2,2,2,3,61,2017-10-16 09:28,2017-10-18 22:28
 "<u>nevar</u>
 
-presente"	<i>(él/ella/Ud.)</i> nieva		presente	
+presente"	<i>(él/ella/Ud.)</i> nieva		presente	2,0,0,0,0,1,20,2017-10-18 09:32,2017-10-19 05:32
 "<u>nevar</u>
 
-pretérito perfector simple"	<i>(él/ella/Ud.)</i> nevó		pretérito perfector simple	
+pretérito perfector simple"	<i>(él/ella/Ud.)</i> nevó		pretérito perfector simple	2,0,0,0,0,1,22,2017-10-18 09:32,2017-10-19 07:32
 "<u>oír</u>
 
 gerundio"	oyendo		gerundio	2,0,8,8,9,10,1659,2017-08-22 09:42,2017-10-30 12:42
@@ -415,7 +415,7 @@ pediste
 pidió
 pedimos
 pedisteis
-pidieron"		pretérito perfector simple	2,0,4,4,4,5,161,2017-10-11 10:24,2017-10-18 03:24
+pidieron"		pretérito perfector simple	2,0,5,5,5,6,245,2017-10-18 09:32,2017-10-28 14:32
 "<u>pertenecer</u>
 
 presente"	"pertenezco
@@ -695,7 +695,7 @@ ves
 ve
 vemos
 veis
-ven"		presente	2,0,8,8,8,9,1343,2017-08-23 11:18,2017-10-18 10:18
+ven"		presente	2,0,9,9,9,10,1790,2017-10-18 10:32,2018-01-01 00:32
 "<u>ver</u>
 
 pretérito imperfecto"	"veía
