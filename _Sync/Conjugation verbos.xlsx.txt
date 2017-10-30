@@ -3,7 +3,7 @@
 *	max-new-cards	20
 *	card-theme	Chalkboard - Clear
 *	tsv	true
-*	category-1	participio pasado|futuro|gerundio|pretérito imperfecto|presente|condicional|pretérito perfector simple
+*	category-1	participio pasado|futuro|gerundio|pretérito imperfecto|presente|condicional|pretérito perfector simple|subjuntivo pretérito imperfecto
 *	deck-stats-1	2636,2859,1388,7,10,0,1,2,4,4,9,7,6,8,10,12,4,6,5,9,19,6,3,3,0,15,12,3,8,15,21,64,11,98,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,13,4,1091,10,9,0,3,6,6,5,10,10,7,11,12,5,3,6,6,7,7,9,4,3,0,11,12,4,8,14,17,5,3,981,10,8,0,3,4,5,5,8,9,7,10,10,5,3,6,6,6,6,9,4,3,0,11,12,4,7,13,17,5,3,359,0,0,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,16,0,0,0,0,0,0,0,0,0,0,53,12,502,3,3,0,3,-4,2,4,5,4,7,8,10,3,3,5,4,5,3,7,4,3,0,9,10,3,5,12,15,4,2,59153,647,452,0,145,54,185,181,494,575,680,812,739,217,494,388,477,304,528,665,315,287,0,724,444,326,176,384,253,321,373,783,706,303,266,213,203
 Text 1	Text 2	Text 3	Category 1	Statistics 1
 "<u>abrir</u>
@@ -755,3 +755,29 @@ vuelve
 volvemos
 volvéis
 vuelven"		presente	2,0,9,9,9,10,1652,2017-10-08 21:04,2017-12-16 17:04
+"<u>escribir</u>
+
+subjuntivo pretérito imperfecto"	"escribiera
+tescribieras
+escribiera
+escribiéramos
+escribierais
+escribieran"	"escribiese
+escribieses
+escribiese
+escribiésemos
+escribieseis
+escribiesen"	subjuntivo pretérito imperfecto	
+"<u>querer</u>
+
+subjuntivo pretérito imperfecto"	"quisiera
+quisieras
+quisiera
+quisiéramos
+quisierais
+quisieran"	"quisiese
+quisieses
+quisiese
+quisiésemos
+quisieseis
+quisiesen"	subjuntivo pretérito imperfecto	

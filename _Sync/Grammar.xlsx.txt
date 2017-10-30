@@ -60,3 +60,35 @@ viv<u>ió</u>
 viv<u>imos</u>
 viv<u>isteis</u>
 viv<u>ieron</u>"	2,0,11,10,2,3,238,2017-10-30 10:09,2017-11-09 08:09
+Pretérito Imperfecto Subjuntivo	"habla<u>ron</u><u>
+</u>
+habla<u>ra</u>
+habla<u>ras</u>
+habla<u>ra</u>
+hablá<u>ramos</u>
+habla<u>rais</u>
+habla<u>ran</u>"	"habla<u>ron</u><u>
+</u>
+habla<u>se</u>
+habla<u>ses</u>
+habla<u>se</u>
+hablá<u>semos</u>
+habla<u>seis</u>
+habla<u>sen</u>"		
+Pretérito Pluscuamperfecto	"haber + perfecto participio
+
+<u>había</u> hablado
+<u>habías</u> hablado
+<u>había</u> hablado
+<u>habíamos</u> hablado
+<u>habíais</u> hablado
+<u>habían</u> hablado"	"ar => ado
+er => ido
+ir => ido"	"habl<u>ar</u>
+habl<u>ado</u>
+
+aprend<u>er</u>
+aprend<u>ido</u>
+
+viv<u>ir</u>
+viv<u>ido</u>"	
