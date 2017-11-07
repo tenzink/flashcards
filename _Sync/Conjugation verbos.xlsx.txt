@@ -4,7 +4,7 @@
 *	card-theme	Chalkboard - Clear
 *	tsv	true
 *	category-1	participio pasado|futuro|gerundio|pretérito imperfecto|presente|condicional|pretérito perfector simple|subjuntivo pretérito imperfecto|presente subjuntivo
-*	deck-stats-1	2636,2862,1484,6,6,16,7,10,0,1,2,4,4,9,7,6,8,10,12,4,6,5,9,19,6,3,3,0,15,12,3,8,15,115,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,4,0,0,0,0,0,0,0,0,0,1116,9,3,2,10,9,0,3,6,6,5,10,10,7,11,12,5,3,6,6,7,7,9,4,3,0,11,12,4,8,14,1006,8,3,2,10,8,0,3,4,5,5,8,9,7,10,10,5,3,6,6,6,6,9,4,3,0,11,12,4,7,13,424,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,16,0,0,0,0,0,0,0,0,0,523,1,2,2,3,3,0,3,-4,2,4,5,4,7,8,10,3,3,5,4,5,3,7,4,3,0,9,10,3,5,12,60100,541,30,182,647,452,0,145,54,185,181,494,575,680,812,739,217,494,388,477,304,528,665,315,287,0,724,444,326,176,384,788,711,309,272,216,205
+*	deck-stats-1	2636,2866,1522,41,21,49,195,6,6,16,7,10,0,1,2,4,4,9,7,6,8,10,12,4,6,5,9,19,6,3,3,0,15,115,0,0,0,38,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,4,0,0,0,0,0,1154,45,15,49,12,9,3,2,10,9,0,3,6,6,5,10,10,7,11,12,5,3,6,6,7,7,9,4,3,0,11,1042,40,14,42,8,8,3,2,10,8,0,3,4,5,5,8,9,7,10,10,5,3,6,6,6,6,9,4,3,0,11,424,0,0,0,153,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,16,0,0,0,0,0,553,37,12,29,0,1,2,2,3,3,0,3,-4,2,4,5,4,7,8,10,3,3,5,4,5,3,7,4,3,0,9,61430,1081,722,425,715,541,30,182,647,452,0,145,54,185,181,494,575,680,812,739,217,494,388,477,304,528,665,315,287,0,724,896,805,318,278,220,209
 Text 1	Text 2	Text 3	Category 1	Statistics 1	Notes
 "<u>abrir</u>
 
@@ -16,7 +16,7 @@ actúes
 actúe
 actuemos
 actuéis
-actúen"		presente subjuntivo		
+actúen"		presente subjuntivo	2,0,2,1,1,2,17,2017-11-06 14:57,2017-11-07 07:57	
 "<u>andar
 
 </u>pretérito perfector simple"	"anduve
@@ -32,7 +32,7 @@ aprendas
 aprenda
 aprendamos
 aprendáis
-aprendan"		presente subjuntivo		
+aprendan"		presente subjuntivo	2,0,2,2,2,3,60,2017-11-06 14:54,2017-11-09 02:54	
 "<u>asir</u>
 
 presente subjuntivo"	"asga
@@ -40,7 +40,7 @@ asgas
 asga
 asgamos
 asgáis
-asgan"		presente subjuntivo		
+asgan"		presente subjuntivo	2,0,2,2,2,3,71,2017-11-06 14:58,2017-11-09 13:58	
 "<u>atracar</u>
 
 pretérito perfecto simple"	"atraqué
@@ -48,7 +48,7 @@ atracaste
 atracó
 atracamos
 atracasteis
-atracaron"		pretérito perfector simple	2,0,5,5,5,6,331,2017-10-20 08:52,2017-11-03 03:52	
+atracaron"		pretérito perfector simple	2,0,6,5,1,2,154,2017-11-03 09:29,2017-11-09 19:29	
 "<u>averiguar</u>
 
 pretérito perfecto simple"	"averigüé
@@ -110,7 +110,7 @@ caigas
 caiga
 caigamos
 caigáis
-caigan"		presente subjuntivo		
+caigan"		presente subjuntivo	2,0,2,2,2,3,69,2017-11-06 14:53,2017-11-09 11:53	
 "<u>cazar</u>
 
 presente subjuntivo"	"cace
@@ -118,7 +118,7 @@ caces
 cace
 cacemos
 cacéis
-cacen"		presente subjuntivo		
+cacen"		presente subjuntivo	2,0,2,2,2,3,74,2017-11-06 14:58,2017-11-09 16:58	
 "<u>cerrar
 
 </u>presente"	"cierro
@@ -134,7 +134,7 @@ cierres
 cierre
 cerremos
 cerréis
-cierren"		presente subjuntivo		
+cierren"		presente subjuntivo	2,0,2,2,2,3,61,2017-11-06 14:52,2017-11-09 03:52	
 "<u>coger</u>
 
 presente subjuntivo"	"coja
@@ -142,7 +142,7 @@ cojas
 coja
 cojamos
 cojáis
-cojan"		presente subjuntivo		
+cojan"		presente subjuntivo	2,0,2,2,2,3,66,2017-11-06 14:56,2017-11-09 08:56	
 "<u>colgar</u>
 
 pretérito perfecto simple"	"colgué
@@ -150,7 +150,7 @@ colgaste
 colgó
 colgamos
 colgasteis
-colgaron"		pretérito perfector simple	2,0,5,5,5,6,327,2017-10-22 20:17,2017-11-05 11:17	
+colgaron"		pretérito perfector simple	2,0,6,6,6,7,528,2017-11-05 19:14,2017-11-27 19:14	
 "<u>comer
 
 </u>pretérito perfector simple"	"comí
@@ -166,7 +166,7 @@ conozcas
 conozca
 conozcamos
 conozcáis
-conozcan"		presente subjuntivo		
+conozcan"		presente subjuntivo	2,0,2,2,2,3,64,2017-11-06 14:58,2017-11-09 06:58	
 "<u>construir</u>
 
 gerundio"	construyendo		gerundio	2,0,9,9,10,11,2608,2017-11-02 21:51,2018-02-19 13:51	
@@ -185,7 +185,7 @@ conviertes
 convierte
 convertimos
 convertís
-convierten"		presente	2,0,9,9,9,10,1237,2017-09-12 11:08,2017-11-03 00:08	
+convierten"		presente	2,0,10,10,10,11,1588,2017-11-03 09:27,2018-01-08 13:27	
 "<u>crecer</u>
 
 presente"	"crezco
@@ -201,7 +201,7 @@ des
 dé
 demos
 deis
-den"		presente subjuntivo		
+den"		presente subjuntivo	2,0,2,2,2,3,66,2017-11-06 14:53,2017-11-09 08:53	
 "<u>dar</u>
 
 pretérito perfector simple"	"di
@@ -231,7 +231,7 @@ digas
 diga
 digamos
 digáis
-digan"		presente subjuntivo		
+digan"		presente subjuntivo	2,0,2,2,2,3,67,2017-11-06 14:52,2017-11-09 09:52	
 "<u>decir</u>
 
 pretérito perfector simple"	"dije
@@ -247,7 +247,7 @@ delincas
 delinca
 delincamos
 delincáis
-delincan"		presente subjuntivo		
+delincan"		presente subjuntivo	2,0,3,2,3,4,32,2017-11-06 14:54,2017-11-07 22:54	
 "<u>distinguir</u>
 
 presente subjuntivo"	"distinga
@@ -255,7 +255,7 @@ distingas
 distinga
 distingamos
 distingáis
-distingan"		presente subjuntivo		
+distingan"		presente subjuntivo	2,0,2,2,2,3,76,2017-11-06 14:54,2017-11-09 18:54	
 "<u>distribuir</u>
 
 pretérito perfecto simple"	"distribuí
@@ -301,7 +301,7 @@ escribieses
 escribiese
 escribiésemos
 escribieseis
-escribiesen"	subjuntivo pretérito imperfecto	2,0,1,1,1,2,35,2017-11-01 21:41,2017-11-03 08:41	Typo
+escribiesen"	subjuntivo pretérito imperfecto	2,0,4,3,3,4,30,2017-11-05 10:27,2017-11-06 16:27	Typo
 "<u>espiar</u>
 
 presente subjuntivo"	"espíe
@@ -309,7 +309,7 @@ espíes
 espíe
 espiemos
 espiéis
-espíen"		presente subjuntivo		
+espíen"		presente subjuntivo	2,0,2,2,2,3,82,2017-11-06 14:58,2017-11-10 00:58	
 "<u>estar</u>
 
 presente subjuntivo"	"esté
@@ -317,7 +317,7 @@ estés
 esté
 estemos
 estéis
-estén"		presente subjuntivo		
+estén"		presente subjuntivo	2,0,2,2,2,3,84,2017-11-06 14:57,2017-11-10 02:57	
 "<u>estar
 
 </u>pretérito perfector simple"	"estuve
@@ -360,7 +360,7 @@ hayas
 haya
 hayamos
 hayáis
-hayan"		presente subjuntivo		
+hayan"		presente subjuntivo	2,0,2,2,2,3,78,2017-11-06 14:58,2017-11-09 20:58	
 "<u>haber</u>
 
 pretérito perfecto simple"	"hube
@@ -376,7 +376,7 @@ hables
 hable
 hablemos
 habléis
-hablen"		presente subjuntivo		
+hablen"		presente subjuntivo	2,0,2,2,2,3,64,2017-11-06 14:52,2017-11-09 06:52	
 "<u>hablar
 </u>
 pretérito perfecto simple"	"hablé
@@ -400,10 +400,10 @@ harás
 hará
 haremos
 haréis
-harán"		futuro	2,0,5,5,5,6,363,2017-10-21 12:03,2017-11-05 15:03	
+harán"		futuro	2,0,6,6,6,7,552,2017-11-05 19:14,2017-11-28 19:14	
 "<u>hacer</u>
 
-participio pasado"	hecho		participio pasado	2,0,12,11,4,5,579,2017-10-13 09:06,2017-11-06 12:06	
+participio pasado"	hecho		participio pasado	2,0,13,12,5,6,839,2017-11-06 14:59,2017-12-11 13:59	
 "<u>hacer</u>
 
 presente subjuntivo"	"haga
@@ -411,7 +411,7 @@ hagas
 haga
 hagamos
 hagáis
-hagan"		presente subjuntivo		
+hagan"		presente subjuntivo	2,0,2,2,2,3,60,2017-11-06 14:53,2017-11-09 02:53	
 "<u>hacer
 
 </u>pretérito perfector simple"	"hice
@@ -419,7 +419,7 @@ hiciste
 hizo
 hicimos
 hicisteis
-hicieron"		pretérito perfector simple	2,0,15,12,4,5,317,2017-10-21 17:44,2017-11-03 22:44	
+hicieron"		pretérito perfector simple	2,0,16,12,1,2,135,2017-11-04 10:41,2017-11-10 01:41	
 "<u>investigar</u>
 
 presente subjuntivo"	"investigue
@@ -427,7 +427,7 @@ investigues
 investigue
 investiguemos
 investiguéis
-investiguen"		presente subjuntivo		
+investiguen"		presente subjuntivo	2,0,2,2,2,3,68,2017-11-06 14:54,2017-11-09 10:54	
 "<u>ir</u>
 
 condicional"	"iría
@@ -465,7 +465,7 @@ vayas
 vaya
 vayamos
 vayáis
-vayan"		presente subjuntivo		
+vayan"		presente subjuntivo	2,0,2,2,2,3,55,2017-11-05 19:13,2017-11-08 02:13	
 "<u>ir</u>
 
 preterio imperfecto"	"iba
@@ -500,10 +500,10 @@ leíste
 leyó
 leímos
 leísteis
-leyeron"		pretérito perfector simple	2,0,5,5,5,6,331,2017-10-21 12:03,2017-11-04 07:03	
+leyeron"		pretérito perfector simple	2,0,6,6,6,7,529,2017-11-04 10:40,2017-11-26 11:40	
 "<u>llover</u>
 
-presente"	<i>(él/ella/Ud.)</i> llueve		presente	2,0,4,4,4,5,233,2017-10-25 09:29,2017-11-04 02:29	
+presente"	<i>(él/ella/Ud.)</i> llueve		presente	2,0,5,5,5,6,345,2017-11-04 10:40,2017-11-18 19:40	
 "<u>llover</u>
 
 pretérito perfector simple"	<i>(él/ella/Ud.)</i> llovió		pretérito perfector simple	2,0,7,6,7,8,241,2017-10-30 10:10,2017-11-09 11:10	
@@ -514,7 +514,7 @@ meces
 mece
 mecemos
 mecéis
-mecen"		presente	2,0,5,4,3,4,107,2017-10-29 11:49,2017-11-02 22:49	
+mecen"		presente	2,0,6,5,4,5,193,2017-11-03 09:27,2017-11-11 10:27	
 "<u>mecer</u>
 
 presente subjuntivo"	"meza
@@ -522,13 +522,13 @@ mezas
 meza
 mezamos
 mezáis
-mezan"		presente subjuntivo		
+mezan"		presente subjuntivo	2,0,3,2,3,4,35,2017-11-06 14:53,2017-11-08 01:53	
 "<u>morir</u>
 
 gerundio"	muriendo		gerundio	2,0,21,17,7,8,605,2017-10-30 10:10,2017-11-24 15:10	
 "<u>morir</u>
 
-participio pasado"	muerto		participio pasado	2,0,8,8,9,10,1809,2017-08-22 09:42,2017-11-05 18:42	
+participio pasado"	muerto		participio pasado	2,0,9,9,10,11,2684,2017-11-05 19:13,2018-02-25 15:13	
 "<u>mostrar</u>
 
 presente"	"muestro
@@ -547,10 +547,10 @@ mostrasteis
 mostraron"		pretérito perfector simple	2,0,5,5,5,6,284,2017-10-30 20:53,2017-11-11 16:53	
 "<u>nevar</u>
 
-presente"	<i>(él/ella/Ud.)</i> nieva		presente	2,0,12,7,4,5,86,2017-10-31 22:14,2017-11-04 12:14	
+presente"	<i>(él/ella/Ud.)</i> nieva		presente	2,0,14,8,2,3,41,2017-11-06 14:52,2017-11-08 07:52	
 "<u>nevar</u>
 
-pretérito perfector simple"	<i>(él/ella/Ud.)</i> nevó		pretérito perfector simple	2,0,7,5,3,4,93,2017-10-30 10:10,2017-11-03 07:10	
+pretérito perfector simple"	<i>(él/ella/Ud.)</i> nevó		pretérito perfector simple	2,0,8,6,4,5,178,2017-11-03 09:27,2017-11-10 19:27	
 "<u>oir</u>
 
 gerundio"	oyendo		gerundio	2,0,9,9,10,11,2473,2017-10-30 14:12,2018-02-10 15:12	
@@ -588,7 +588,7 @@ pediste
 pidió
 pedimos
 pedisteis
-pidieron"		pretérito perfector simple	2,0,6,5,1,2,116,2017-10-29 11:50,2017-11-03 07:50	
+pidieron"		pretérito perfector simple	2,0,8,5,1,2,15,2017-11-06 14:59,2017-11-07 05:59	
 "<u>pertenecer</u>
 
 presente"	"pertenezco
@@ -596,7 +596,7 @@ perteneces
 pertenece
 pertenecemos
 pertenecéis
-pertenecen"		presente	2,0,5,5,5,6,319,2017-10-22 15:46,2017-11-04 22:46	
+pertenecen"		presente	2,0,6,6,6,7,471,2017-11-05 10:27,2017-11-25 01:27	
 "<u>poder</u>
 
 futuro"	"podré
@@ -634,7 +634,7 @@ pongas
 ponga
 pongamos
 pongáis
-pongan"		presente subjuntivo		
+pongan"		presente subjuntivo	2,0,2,2,2,3,65,2017-11-06 14:56,2017-11-09 07:56	
 "<u>poner
 
 </u>pretérito perfector simple"	"puse
@@ -653,7 +653,7 @@ prohíbas
 prohíba
 prohibamos
 prohibáis
-prohíban"		presente subjuntivo		
+prohíban"		presente subjuntivo	2,0,2,2,2,3,64,2017-11-06 14:52,2017-11-09 06:52	
 "<u>provocar</u>
 
 presente subjuntivo"	"provoque
@@ -661,7 +661,7 @@ provoques
 provoque
 provoquemos
 provoquéis
-provoquen"		presente subjuntivo		
+provoquen"		presente subjuntivo	2,0,2,2,2,3,76,2017-11-06 14:57,2017-11-09 18:57	
 "<u>querer</u>
 
 futuro"	"querré
@@ -690,7 +690,7 @@ quisieses
 quisiese
 quisiésemos
 quisieseis
-quisiesen"	subjuntivo pretérito imperfecto	2,0,1,1,1,2,35,2017-11-01 21:40,2017-11-03 08:40	
+quisiesen"	subjuntivo pretérito imperfecto	2,0,3,3,3,4,103,2017-11-06 14:57,2017-11-10 21:57	
 "<u>recordar</u>
 
 presente subjuntivo"	"recuerde
@@ -698,7 +698,7 @@ recuerdes
 recuerde
 recordemos
 recordéis
-recuerden"		presente subjuntivo		
+recuerden"		presente subjuntivo	2,0,2,1,1,2,9,2017-11-06 14:59,2017-11-06 23:59	
 "<u>reunir</u>
 
 presente subjuntivo"	"reúna
@@ -706,7 +706,7 @@ reúnas
 reúna
 reunamos
 reunáis
-reúnan"		presente subjuntivo		
+reúnan"		presente subjuntivo	2,0,2,2,2,3,68,2017-11-06 14:58,2017-11-09 10:58	
 "<u>romper</u>
 
 participio pasado"	roto		participio pasado	2,0,13,12,5,6,771,2017-10-22 15:46,2017-11-23 18:46	
@@ -725,7 +725,7 @@ sepas
 sepa
 sepamos
 sepáis
-sepan"		presente subjuntivo		
+sepan"		presente subjuntivo	2,0,2,2,2,3,51,2017-11-05 19:13,2017-11-07 22:13	
 "<u>saber</u>
 
 pretérito perfector simple"	"supe
@@ -765,7 +765,7 @@ salgas
 salga
 salgamos
 salgáis
-salgan"		presente subjuntivo		
+salgan"		presente subjuntivo	2,0,2,2,2,3,77,2017-11-06 14:54,2017-11-09 19:54	
 "<u>salir
 
 </u>pretérito perfector simple"	"salí
@@ -781,7 +781,7 @@ siembras
 siembra
 sembramos
 sembráis
-siembran"		presente	2,0,2,2,2,3,234,2017-10-26 08:55,2017-11-05 02:55	
+siembran"		presente	2,0,3,3,3,4,342,2017-11-05 10:26,2017-11-19 16:26	
 "<u>ser</u>
 
 futuro"	"seré
@@ -803,7 +803,7 @@ eres
 es
 somos
 sois
-son"		presente	2,0,9,9,9,10,1297,2017-09-12 11:08,2017-11-05 12:08	
+son"		presente	2,0,10,10,10,11,1686,2017-11-05 19:13,2018-01-15 01:13	
 "<u>ser</u>
 
 presente subjuntivo"	"sea
@@ -811,7 +811,7 @@ seas
 sea
 seamos
 seáis
-sean"		presente subjuntivo		
+sean"		presente subjuntivo	2,0,2,2,2,3,72,2017-11-06 14:54,2017-11-09 14:54	
 "<u>ser
 
 </u>pretérito imperfecto"	"era
@@ -835,7 +835,7 @@ sirvas
 sirva
 sirvamos
 sirváis
-sirvan"		presente subjuntivo		
+sirvan"		presente subjuntivo	2,0,3,2,3,4,37,2017-11-06 14:53,2017-11-08 03:53	
 "<u>sustituir</u>
 
 presente subjuntivo"	"sustituya
@@ -843,7 +843,7 @@ sustituyas
 sustituya
 sustituyamos
 sustituyáis
-sustituyan"		presente subjuntivo		
+sustituyan"		presente subjuntivo	2,0,3,2,3,4,35,2017-11-06 14:53,2017-11-08 01:53	
 "<u>tañer</u>
 
 pretérito perfecto simple"	"tañí
@@ -875,7 +875,7 @@ tengas
 tenga
 tengamos
 tengáis
-tengan"		presente subjuntivo		
+tengan"		presente subjuntivo	2,0,2,2,2,3,67,2017-11-06 14:52,2017-11-09 09:52	
 "<u>tener
 
 </u>pretérito perfector simple"	"tuve
@@ -891,7 +891,7 @@ traduzcas
 traduzca
 traduzcamos
 traduzcáis
-traduzcan"		presente subjuntivo		
+traduzcan"		presente subjuntivo	2,0,2,2,2,3,76,2017-11-06 14:58,2017-11-09 18:58	
 "<u>traducir</u>
 
 pretérito perfecto simple"	"traduje
@@ -918,7 +918,7 @@ traigas
 traiga
 traigamos
 traigáis
-traigan"		presente subjuntivo		
+traigan"		presente subjuntivo	2,0,2,2,2,3,64,2017-11-06 14:56,2017-11-09 06:56	
 "<u>traer</u>
 
 pretérito perfector simple"	"traje
@@ -942,7 +942,7 @@ valgas
 valga
 valgamos
 valgáis
-valgan"		presente subjuntivo		
+valgan"		presente subjuntivo	2,0,2,2,2,3,57,2017-11-06 14:54,2017-11-08 23:54	
 "<u>vencer</u>
 
 presente"	"venzo
@@ -966,7 +966,7 @@ vendrás
 vendrá
 vendremos
 vendréis
-vendrán"		futuro	2,0,5,5,5,6,352,2017-10-20 08:52,2017-11-04 00:52	
+vendrán"		futuro	2,0,6,5,1,2,149,2017-11-04 10:41,2017-11-10 15:41	
 "<u>venir</u>
 
 presente"	"vengo
@@ -982,7 +982,7 @@ vengas
 venga
 vengamos
 vengáis
-vengan"		presente subjuntivo		
+vengan"		presente subjuntivo	2,0,2,2,2,3,65,2017-11-06 14:53,2017-11-09 07:53	
 "<u>venir</u>
 
 pretérito perfector simple"	"vine
@@ -993,7 +993,7 @@ vinisteis
 vinieron"		pretérito perfector simple	2,0,11,9,6,7,571,2017-10-25 09:29,2017-11-18 04:29	
 "<u>ver</u>
 
-gerundio"	viendo		gerundio		
+gerundio"	viendo		gerundio	2,0,2,2,2,3,64,2017-11-06 14:56,2017-11-09 06:56	
 "<u>ver</u>
 
 participio pasado"	visto		participio pasado	2,0,9,9,10,11,1937,2017-10-22 15:46,2018-01-11 08:46	
@@ -1012,7 +1012,7 @@ veas
 vea
 veamos
 veáis
-vean"		presente subjuntivo		
+vean"		presente subjuntivo	2,0,2,2,2,3,60,2017-11-06 14:52,2017-11-09 02:52	
 "<u>ver</u>
 
 pretérito imperfecto"	"veía
@@ -1052,7 +1052,7 @@ vivas
 viva
 vivamos
 viváis
-vivan"		presente subjuntivo		
+vivan"		presente subjuntivo	2,0,2,2,2,3,60,2017-11-06 14:53,2017-11-09 02:53	
 "<u>vivir
 </u>
 pretérito imperfecto"	"vivía
